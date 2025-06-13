@@ -67,3 +67,7 @@ Organizar por categorías las tareas, creando las categorías y las tareas, y si
 Organizar un poco mejor mi tiempo: Esta vez si le dediqué según yo, una buena organización de mi parte y creo que se puede ver reflejado en la app, al menos para mi, pude cubrir cada uno de los puntos, o bueno lo suficiente como para que no se caiga la app.
 
 Importancia de los patrones: Mientras iba aumentando más cosas a la app, después del login, registro y categoría, cuando estaba en la parte de tareas me di cuenta que las llamadas a las base de datos y el tener que actualizar los datos se iba a volver muy engorroso de implementar y que iba tener componentes que hacían muchas y con muchas líneas de código así que los patrones, esta vez en vez de complicarme, me ayudaron.
+
+
+## Link al video de youtube
+[Video demostrativo](https://youtu.be/8lEhPTbORaU)
