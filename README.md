@@ -69,5 +69,8 @@ Organizar un poco mejor mi tiempo: Esta vez si le dediqué según yo, una buena 
 Importancia de los patrones: Mientras iba aumentando más cosas a la app, después del login, registro y categoría, cuando estaba en la parte de tareas me di cuenta que las llamadas a las base de datos y el tener que actualizar los datos se iba a volver muy engorroso de implementar y que iba tener componentes que hacían muchas y con muchas líneas de código así que los patrones, esta vez en vez de complicarme, me ayudaron.
 
 
-## Link al video de youtube
+## Link al video de youtube  
 [Video demostrativo](https://youtu.be/8lEhPTbORaU)
+
+## Link al github  
+[Link al github](https://github.com/Jonath117/ToDoApp_ExamenF_Taller.git)
